@@ -1,4 +1,4 @@
-export const APP_NAME = "react-express-product-cart";
+export const APP_NAME = "EStore";
 
 export const FRONTEND_ENDPOINTS = [
   {
